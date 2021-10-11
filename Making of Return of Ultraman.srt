@@ -2,79 +2,83 @@
 00:00:02,026 --> 00:00:03,733
 Camera, start.
 
-3
+2
+00:00:04,626 --> 00:00:05,413
+Blow it up!
+
+2
 00:00:35,050 --> 00:00:40,225
 Did you enjoy "Return of Ultraman: MAT Arrow 1 Takeoff Order"?
 
-4
+3
 00:00:41,175 --> 00:00:44,900
 Have a look at how it was shot in this making of special.
 
-5
+4
 00:00:46,450 --> 00:00:48,125
 First, MAT Gyro.
 
-6
+5
 00:00:49,700 --> 00:00:52,200
 What do you think the cockpit is made of?
 
-7
+6
 00:00:52,800 --> 00:00:55,150
 Actually almost completely out of paper.
 
-9
+7
 00:00:55,201 --> 00:00:59,675
 That's why it is being carried carefully so as to not break it.
 
-10
+8
 00:01:00,525 --> 00:01:01,425
 It's tough.
 
-11
+9
 00:01:02,950 --> 00:01:06,875
 While shooting they were careful not to break it with their acting too.
 
-12
+10
 00:01:08,600 --> 00:01:15,250
 As you can see, the flying MAT Arrow was shot in a very unhealthy manner.
 
-13
+11
 00:01:15,700 --> 00:01:16,200
 Look!
 
-14
+12
 00:01:22,450 --> 00:01:23,275
 You got the eyes?
 
-15
+13
 00:01:23,270 --> 00:01:24,000
 Yep.
 
-16
+14
 00:01:28,750 --> 00:01:30,000
 It'll go out of focus!
 
-17
+15
 00:01:31,175 --> 00:01:36,025
 That cockpit was also not made for the whole body, with the feet sticking outside.
 
-18
+16
 00:01:37,100 --> 00:01:40,325
 You'd never imagine that, considering how cool it was in the film.
 
-158
+17
 00:01:45,725 --> 00:01:47,225
 Shit, a barrier?
 
-159
+18
 00:01:53,400 --> 00:01:54,325
 Come on!
 
-160
+19
 00:01:59,605 --> 00:02:01,225
 Damnit, not enough energy!
 
-161
+20
 00:02:01,525 --> 00:02:03,025
 Ejecting the battery pack.
 
@@ -98,27 +102,24 @@ Cardboard boxes and others are brought in to complete it.
 00:03:04,400 --> 00:03:05,225
 Captain.
 
-183
+26
 00:03:06,000 --> 00:03:08,000
 The nuclear weapons, at least stop the nuclear weapons.
 
-26
-00:03:08,100 --> 00:03:10,025
-There might still be survivors in Hiratsune City.
-
-26
+27
 00:03:08,100 --> 00:03:10,025
 (Rehearsal in the finished Command Room)
+There might still be survivors in Hiratsune City.
 
-27
+28
 00:03:10,525 --> 00:03:12,575
 Orders are to retreat, there will be no change.
 
-28
+29
 00:03:12,900 --> 00:03:15,100
 But commander... please stop.
 
-29
+30
 00:03:15,850 --> 00:03:17,050
 What can't you do?
 
@@ -127,305 +128,362 @@ What can't you do?
 Easy cuts, including rehearsals, were repeated over and over.
 
 32
+00:03:35,280 --> 00:03:36,560
+To the back of the table?
+
+33
+00:03:37,160 --> 00:03:39,100
+Tough job, give it up
+
+34
+00:03:39,420 --> 00:03:45,080
+Then let's try going up til here and then running swiftly.
+
+35
 00:03:48,850 --> 00:03:52,875
 Having to shoot late at night and sleepy is quite tough.
 
-33
+36
 00:03:55,400 --> 00:03:58,660
 But they did play around like this during rehearsals.
 
-34
+37
 00:03:58,675 --> 00:04:00,000
 You won’t avenge your countrymen?
 
-35
+38
 00:04:00,075 --> 00:04:02,400
 Are you even human?
 
-36
+39
 00:04:08,850 --> 00:04:10,550
 This brought the light to an end.
 
-183
+40
 00:04:23,025 --> 00:04:25,150
 The nuclear weapons, at least stop the nuclear weapons.
 
-37
+41
 00:04:25,225 --> 00:04:26,850
 There might still be survivors in Hiratsune City.
 
-38
+42
 00:04:27,400 --> 00:04:28,925
 Ibuki might still be-
 
-39
+43
 00:04:29,425 --> 00:04:30,850
 Captain, please stop.
 
-40
+44
 00:04:34,250 --> 00:04:35,900
 Whoa, Hayakawa, what are you doing?
 
-41
+45
 00:04:35,900 --> 00:04:38,000
 Isn’t it obvious! I’m taking us out of level 4.
 
-43
+46
 00:04:38,000 --> 00:04:38,775
 Hayakawa, stop!
 
-44
+47
 00:04:39,325 --> 00:04:40,200
 Won't you stop?
 
-45
+48
 00:04:40,200 --> 00:04:41,100
 Let me go.
 
-46
+49
 00:04:43,100 --> 00:04:43,875
 Bastard!
 
-47
+50
 00:04:44,600 --> 00:04:46,950
 Guys, don’t you understand what you’re doing?
 
-48
+51
 00:04:47,400 --> 00:04:48,300
 Let go!
 
-196
+52
 00:04:48,300 --> 00:04:49,500
 Stop this, Hayakawa!
 
-197
+53
 00:04:49,600 --> 00:04:51,450
 This is our chance to avenge Ibuki!
 
-50
+54
 00:04:51,450 --> 00:04:52,125
 But!
 
-199
+55
 00:05:00,450 --> 00:05:05,125
 You won’t avenge your countrymen? Are you even human?
 
-51
+56
 00:05:08,700 --> 00:05:12,200
 Confine him to his quarters. And keep an eye on him.
 
-201
+57
 00:05:12,200 --> 00:05:13,200
 Roger!
 
-52
+58
+00:05:19,140 --> 00:05:21,080
+How's it going?
+
+59
+00:05:22,060 --> 00:05:23,520
+Under preparation.
+
+60
+00:05:25,960 --> 00:05:27,120
+Ah, I see.
+
+61
+00:05:31,440 --> 00:05:32,700
+What about this one here?
+
+62
 00:05:41,550 --> 00:05:44,375
 And just like that, the filming with this set was finished in 3 days.
 
-53
+63
 00:05:44,370 --> 00:05:46,375
 Time to dismantle.
 
-54
+64
 00:05:46,850 --> 00:05:52,750
 The command room which took a week to be made was dismantled in just 2 hours.
 
-55
+65
 00:06:38,025 --> 00:06:41,800
 The miniatures were assembled in different sizes.
 
-56
+66
 00:06:42,600 --> 00:06:44,625
 Compare them with the size of actual people.
 
-57
+67
 00:07:42,050 --> 00:07:45,050
-The small tools for the open set were also made going in and out.
+The small tools for the open set were also made on the go.
 
-58
+68
 00:07:45,600 --> 00:07:50,750
 The kaiju was also completed with many passes, all while bearing with the smell.
 
-59
+69
+00:07:54,780 --> 00:07:56,380
+Strong response.
+
+70
 00:08:04,050 --> 00:08:05,825
 Finally, the location shoot.
 
-60
+71
 00:08:06,150 --> 00:08:09,100
 The place is Yonago in Tottori prefecture, the foot of Mt. Daisen.
 
-61
+72
+00:08:14,200 --> 00:08:15,660
+Went for a swim today, but it was paid.
+
+73
+00:08:15,660 --> 00:08:16,600
+Same here.
+
+74
 00:08:25,550 --> 00:08:27,725
 Raise your hands.
 
-62
+75
 00:08:29,025 --> 00:08:31,075
 I hate that sound.
 
-63
+76
 00:08:49,775 --> 00:08:51,150
 Preparing the film set.
 
-64
+77
 00:08:51,750 --> 00:08:53,175
 When preparations are done,
 
-65
+78
 00:08:54,050 --> 00:08:55,375
 shooting begins.
 
-66
-00:08:56,475 --> 00:08:59,5 75
+79
+00:08:56,475 --> 00:08:59,500
 The smoke is being produced by a firework called a smoke ball.
 
-67
+80
 00:09:01,125 --> 00:09:01,725
 Start.
 
-68
+81
 00:09:04,425 --> 00:09:09,525
 Until OK is reached, it is repeated non-stop.
 
-70
+82
 00:09:09,800 --> 00:09:10,375
 Okay.
 
-71
+83
 00:09:50,800 --> 00:09:53,025
 Bug Jewel also takes a rest.
 
-72
+84
 00:09:56,275 --> 00:09:58,325
 Filming also happened during the night.
 
-73
+85
 00:10:03,500 --> 00:10:04,775
 It's raining.
 
-74
+86
 00:10:07,650 --> 00:10:09,675
 When the rain stops, filming resumes.
 
-75
+87
+00:10:17,340 --> 00:10:18,780
+Wait, wait.
+
+88
+00:10:18,780 --> 00:10:19,840
+I won't roll.
+
+89
 00:10:22,400 --> 00:10:24,225
 Roll it.
 
-76
+90
 00:10:25,950 --> 00:10:26,700
 Yeah.
 
-77
+91
 00:10:30,500 --> 00:10:31,500
 Oh, there's a car.
 
-78
+92
 00:10:39,800 --> 00:10:43,325
 Shooting fireworks or gunpowder can only be done once.
 
-79
+93
 00:10:43,550 --> 00:10:44,675
 No room for failure.
 
-162
+94
+00:10:45,420 --> 00:10:46,460
+Shooting.
+
+95
+00:10:46,460 --> 00:10:48,460
+ How well did it go?
+
+96
 00:11:37,050 --> 00:11:37,900
 I’m hit!
 
-163
+97
 00:11:38,500 --> 00:11:39,500
 Ibuki!
 
-164
+98
 00:11:40,574 --> 00:11:41,560
 Ibuki!
 
-80
+99
 00:11:55,100 --> 00:11:58,425
 Have a look at Ultraman's clothing.
 
-81
+100
 00:12:24,025 --> 00:12:31,425
 All of the spare smoke balls caught fire!
 
-82
+101
 00:12:33,100 --> 00:12:42,575
 Nevertheless, the filming continued this way.
 
-83
+102
 00:12:46,350 --> 00:12:47,275
 This is no good.
 
-84
+103
 00:12:49,875 --> 00:12:50,750
 No good.
 
-85
+104
 00:12:54,425 --> 00:12:55,350
 Mistakes were made too.
 
-86
+105
 00:12:56,500 --> 00:12:58,475
 But it went well most of the time.
 
-87
+106
 00:13:07,200 --> 00:13:09,350
 Ready... Start!
 
-88
+107
 00:13:27,925 --> 00:13:29,225
 Finally, the climax.
 
-89
+108
 00:13:30,025 --> 00:13:32,575
 When they tried to film Bug Jewel in the end...
 
-90
+109
 00:13:33,625 --> 00:13:38,425
 This time, it snowed.
 
-91
+110
 00:13:45,600 --> 00:13:46,800
 Quite often unlucky.
 
-92
+111
 00:13:47,475 --> 00:13:49,475
 Well then, let's redo it.
 
-93
+112
 00:13:58,400 --> 00:13:59,475
 Sorry.
 
-94
+113
 00:14:00,725 --> 00:14:02,375
 Camera, start.
 
-95
+114
 00:14:19,150 --> 00:14:19,775
 Okay.
 
-96
+115
 00:14:19,770 --> 00:14:21,450
 Somehow it was a success.
 
-97
+116
 00:15:17,225 --> 00:15:19,125
 Great Japan for ya.
 
-98
+117
 00:15:21,350 --> 00:15:23,200
 Shooting on location is finished.
 
-99
+118
 00:15:23,550 --> 00:15:24,550
 Time to go back.
 
-100
+119
 00:15:25,275 --> 00:15:26,975
 Back to Osaka.
 
-101
+120
 00:15:40,300 --> 00:15:44,625
 6 months actually passed since production started in the summer.
 
-102
+121
 00:15:44,775 --> 00:15:56,525
 It was March of the next year when the 80-man crew returned from Yonego to Osaka, and completed Ultraman.
+
