@@ -104,10 +104,10 @@ Captain.
 
 26
 00:03:06,000 --> 00:03:08,000
-The nuclear weapons, at least stop the nuclear weapons.
+The nuclear weapons- at least stop the nuclear weapons.
 
 27
-00:03:08,100 --> 00:03:10,025
+00:03:08,100 --> 00:03:10,515
 (Rehearsal in the finished Command Room)
 There might still be survivors in Hiratsune City.
 
@@ -133,11 +133,11 @@ To the back of the table?
 
 33
 00:03:37,160 --> 00:03:39,100
-Tough job, give it up
+Tough job, give it up.
 
 34
 00:03:39,420 --> 00:03:45,080
-Then let's try going up til here and then running swiftly.
+Then let's try going up until here and then running swiftly.
 
 35
 00:03:48,850 --> 00:03:52,875
@@ -161,7 +161,7 @@ This brought the light to an end.
 
 40
 00:04:23,025 --> 00:04:25,150
-The nuclear weapons, at least stop the nuclear weapons.
+The nuclear weapons- at least stop the nuclear weapons.
 
 41
 00:04:25,225 --> 00:04:26,850
@@ -360,6 +360,10 @@ I won't roll.
 Roll it.
 
 90
+00:10:24,650 --> 00:10:25,940
+Roll it, right?
+
+90
 00:10:25,950 --> 00:10:26,700
 Yeah.
 
@@ -380,8 +384,8 @@ No room for failure.
 Shooting.
 
 95
-00:10:46,460 --> 00:10:48,460
- How well did it go?
+00:10:46,460 --> 00:10:48,060
+How well did it go?
 
 96
 00:11:37,050 --> 00:11:37,900
@@ -416,11 +420,11 @@ This is no good.
 No good.
 
 104
-00:12:54,425 --> 00:12:55,350
+00:12:54,425 --> 00:12:56,050
 Mistakes were made too.
 
 105
-00:12:56,500 --> 00:12:58,475
+00:12:56,500 --> 00:12:59,175
 But it went well most of the time.
 
 106
